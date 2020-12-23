@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading{
+  padding: 20px 0;
+  text-align: center;
+  border-bottom: solid 1px;
+}
+
+nav{
+  border-bottom: solid 1px;
+}
+
+.nav-list{
+  text-align: center;
+  padding: 15px 0;
+}
+
+.nav-list-item{
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
+}
+
+footer{
+  height: 120px;
+  background-color: gray;
+}
+
+.footer-text{
+  color: white;
+  line-height: 120px;
+  text-align: center;
+}
